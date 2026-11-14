@@ -30,7 +30,7 @@ Hands-on work with domain controllers, DNS, domain-joined systems, SMB shares an
 
 Currently expanding into Group Policy, PowerShell automation and infrastructure troubleshooting.
 
-### VitaMia – AI-assisted Android Application
+### [VitaMia – AI-assisted Android Application](https://github.com/donbot85/VitaMia-Showcase)
 
 A personal project exploring voice interaction, AI-assisted features and practical mobile application design.
 
